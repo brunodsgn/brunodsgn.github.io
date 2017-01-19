@@ -1,4 +1,4 @@
-#Resource Grabber 1.96
+# Resource Grabber 1.96
 
 Whether you’re a programmer, web designer, webmaster, or magazine editor, you’ve all spent time searching for images. True? I myself was foolish enough to actually go out and buy one of those 100,000 collections… what a waste of time and money! The newsgroups also seem to be full of people looking for good sources. Well what about looking on your own machine?
 
